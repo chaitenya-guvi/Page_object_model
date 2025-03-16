@@ -1,7 +1,7 @@
 from Test_utilities.login_page_utilities import LoginPageActions
 
 
-def test_login_page_title(self):
+def test_login_page_title():
         """
         test case to test the title of our webpage
         :return:
